@@ -1,8 +1,8 @@
 # MIT FutureMakers GitHub Repository
 ## Contents:
    - [Responses Section](#responses)
-      - [Week One](#week-one)
-      - [Week Two](#week-two)
+      - [Week One](#week-one---the-basics)
+      - [Week Two](#week-two---cnns-data--machine-learning)
 ## Responses:
 ### Week One - THE BASICS
    - **Day 1 (07/06/21)**: What I hope to learn from this program is a greater understanding and appreciation for Artificial Intelligence, as well as gain confidence in skills needed for AI. With the information that I will end up learning from this class, I am sure that I will be able to come up with deep learning networks to solve real problems, which is exciting.
